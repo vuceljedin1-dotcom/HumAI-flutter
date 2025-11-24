@@ -1,4 +1,4 @@
-workflows:
+nworkflows:
   humai_flutter:
     name: HumAI Digital Twin - Flutter
     max_build_duration: 60
