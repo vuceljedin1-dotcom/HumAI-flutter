@@ -1,16 +1,16 @@
-name: humai_digital_twin
-description: HumAI Digital Twin – health & performance tracker
+name: humai_flutter
+description: HumAI Digital Twin - Health & Performance tracker
 publish_to: "none"
 
 version: 0.1.0+1
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=3.5.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.6
+  cupertino_icons: ^1.0.8
 
 dev_dependencies:
   flutter_test:
